@@ -39,7 +39,6 @@ I've been writing code professionally since 2020 across full-stack web apps, dat
 [![flora_chromium](https://github-readme.keeganvaz.in/api/pin/?username=forrtproject&repo=flora_chromium&theme=gotham)](https://github.com/forrtproject/flora_chromium)
 
 [![flora-replication-atlas](https://github-readme.keeganvaz.in/api/pin/?username=forrtproject&repo=flora-replication-atlas&theme=gotham)](https://github.com/forrtproject/flora-replication-atlas)
-[![CrysID-MLME25](https://github-readme.keeganvaz.in/api/pin/?username=Keegan-Vaz&repo=CrysID-MLME25&theme=gotham)](https://github.com/Keegan-Vaz/CrysID-MLME25)
 
 # 📄 Publications
 
