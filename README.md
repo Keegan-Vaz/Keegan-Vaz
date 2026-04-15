@@ -41,8 +41,6 @@ I've been writing code professionally since 2020 across full-stack web apps, dat
 [![flora-replication-atlas](https://github-readme.keeganvaz.in/api/pin/?username=forrtproject&repo=flora-replication-atlas&theme=gotham)](https://github.com/forrtproject/flora-replication-atlas)
 [![CrysID-MLME25](https://github-readme.keeganvaz.in/api/pin/?username=Keegan-Vaz&repo=CrysID-MLME25&theme=gotham)](https://github.com/Keegan-Vaz/CrysID-MLME25)
 
-**[Auction.ify](https://github.com/Keegan-Vaz)** — Decentralised auction platform on the Avalanche blockchain with a React frontend and Solidity smart contracts (Auction Manager + Bidding), MetaMask authentication, and Ganache-based end-to-end testing.
-
 # 📄 Publications
 
 - **FLoRA-Notify: A Protocol for a Cluster-Randomised Controlled Trial to Assess the Impact of Notifying Preprint Authors About Replication Studies** — _Preprint, 2026_
