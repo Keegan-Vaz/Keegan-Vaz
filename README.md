@@ -35,13 +35,13 @@ I've been writing code professionally since 2020 across full-stack web apps, dat
 
 # 🔬 Key Projects
 
-**[FORRT Preprint Notifier](https://github.com/Keegan-Vaz)** — Modular Python pipeline using GROBID-based PDF parsing, DynamoDB state management, and GitHub Actions scheduling to systematically identify unreported replication evidence in OSF preprints. Led a 7+ person team during a FORRT hackathon.
+[![flora_preprint_notifier](https://github-readme.keeganvaz.in/api/pin/?username=forrtproject&repo=flora_preprint_notifier&theme=gotham)](https://github.com/forrtproject/flora_preprint_notifier)
+[![flora_chromium](https://github-readme.keeganvaz.in/api/pin/?username=forrtproject&repo=flora_chromium&theme=gotham)](https://github.com/forrtproject/flora_chromium)
 
-**[Replication Evidence Browser Extension](https://github.com/Keegan-Vaz)** — TypeScript/Manifest V3 Chromium extension that detects academic paper DOIs across journal websites, preprint servers, and Google Scholar, querying the FORRT Replication Database in real time to surface replication evidence inline during literature review.
+[![flora-replication-atlas](https://github-readme.keeganvaz.in/api/pin/?username=forrtproject&repo=flora-replication-atlas&theme=gotham)](https://github.com/forrtproject/flora-replication-atlas)
+[![CrysID-MLME25](https://github-readme.keeganvaz.in/api/pin/?username=Keegan-Vaz&repo=CrysID-MLME25&theme=gotham)](https://github.com/Keegan-Vaz/CrysID-MLME25)
 
 **[Auction.ify](https://github.com/Keegan-Vaz)** — Decentralised auction platform on the Avalanche blockchain with a React frontend and Solidity smart contracts (Auction Manager + Bidding), MetaMask authentication, and Ganache-based end-to-end testing.
-
-**Slug Flow Crystallization Modelling** — NARX neural network in PyTorch modelling crystallizer dynamics (R² up to 0.998), Conformalized Quantile Regression pipeline for distribution-free prediction intervals, and K-means clustering over 98 experimental datasets.
 
 # 📄 Publications
 
@@ -55,7 +55,8 @@ I've been writing code professionally since 2020 across full-stack web apps, dat
 
 ![](https://github-readme.keeganvaz.in/api?username=Keegan-Vaz&theme=gotham&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Keegan-Vaz&theme=gotham&hide_border=false)<br/>
-![](https://github-readme.keeganvaz.in/api/top-langs/?username=Keegan-Vaz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![](https://github-readme.keeganvaz.in/api/top-langs/?username=Keegan-Vaz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)<br/>
+![](https://github-readme.keeganvaz.in/api/wakatime?username=Keegan_Vaz&theme=gotham&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
