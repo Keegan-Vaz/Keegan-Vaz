@@ -36,6 +36,7 @@ I've been writing code professionally since 2020 across full-stack web apps, dat
 # 🔬 Key Projects
 
 [![flora_preprint_notifier](https://github-readme.keeganvaz.in/api/pin/?username=forrtproject&repo=flora_preprint_notifier&theme=gotham)](https://github.com/forrtproject/flora_preprint_notifier)
+
 [![flora_chromium](https://github-readme.keeganvaz.in/api/pin/?username=forrtproject&repo=flora_chromium&theme=gotham)](https://github.com/forrtproject/flora_chromium)
 
 [![flora-replication-atlas](https://github-readme.keeganvaz.in/api/pin/?username=forrtproject&repo=flora-replication-atlas&theme=gotham)](https://github.com/forrtproject/flora-replication-atlas)
@@ -52,7 +53,9 @@ I've been writing code professionally since 2020 across full-stack web apps, dat
 
 ![](https://github-readme.keeganvaz.in/api?username=Keegan-Vaz&theme=gotham&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Keegan-Vaz&theme=gotham&hide_border=false)<br/>
+
 ![](https://github-readme.keeganvaz.in/api/top-langs/?username=Keegan-Vaz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)<br/>
+
 ![](https://github-readme.keeganvaz.in/api/wakatime?username=Keegan_Vaz&theme=gotham&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
