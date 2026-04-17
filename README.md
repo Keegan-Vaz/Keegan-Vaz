@@ -56,8 +56,6 @@ I've been writing code professionally since 2020 across full-stack web apps, dat
 
 ![](https://github-readme.keeganvaz.in/api/top-langs/?username=Keegan-Vaz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)<br/>
 
-![](https://github-readme.keeganvaz.in/api/wakatime?username=Keegan_Vaz&theme=gotham&hide_border=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Keegan-Vaz&theme=radical&no-frame=true&no-bg=true&margin-w=4)
